@@ -1,2 +1,2 @@
 # xmlrpc-image
-Solve a bug when send images to odoo with xmlrpc
+Solve a bug when send images to odoo with xmlrpc (Odoo vs13)
